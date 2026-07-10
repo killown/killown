@@ -27,12 +27,16 @@ Long-time open-source contributor and community participant.
       <br>Wayland
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="48" height="48" alt="Neovim" />
       <br>nvim
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+      <br>Hugging Face
     </td>
   </tr>
   <tr>
@@ -57,8 +61,12 @@ Long-time open-source contributor and community participant.
       <br>Ollama
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" width="48" height="48" alt="Nginx" />
       <br>nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>git
     </td>
   </tr>
 </table>
