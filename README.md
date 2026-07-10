@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/killown/killown/main/cover.png" alt="killown banner" width="100%" />
+</p>
+
 # Hi there, I'm Thiago! 👋
 
-Experienced Systems & Backend Engineer. Using Linux since 1998 (starting with Slackware) and with a long background in network and server administration. 
-Long-time open-source contributor and community participant.
+Experienced Systems & Backend Engineer. Using Linux since 1998 (starting with Slackware) and with a long background in network and server administration. Long-time open-source contributor and community participant.
 
+* 🛠️ Currently maintaining [**Flux**](https://github.com/killown/flux), a lightweight and memory-safe Linux file manager built in Rust.
+
+---
 
 ## Favorite Tech
 
@@ -70,3 +76,5 @@ Long-time open-source contributor and community participant.
     </td>
   </tr>
 </table>
+
+---
